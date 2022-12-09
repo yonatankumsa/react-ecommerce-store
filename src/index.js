@@ -8,6 +8,7 @@ import './Resources/fonts/walsheim/GTWalsheimPro-Regular.ttf';
 import './Resources/fonts/walsheim/GTWalsheimPro-Light.ttf';
 import './Resources/fonts/walsheim/GTWalsheimPro-Bold.ttf';
 import { BrowserRouter } from 'react-router-dom';
+import Browse from './Containers/Browse/Browse';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
