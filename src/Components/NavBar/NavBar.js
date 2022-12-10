@@ -117,7 +117,7 @@ const NavBar = props => {
               onMouseLeave={handleHover}
             >
                 <GitHub className={styles.gh} />
-                <h3>gianlucajahn</h3>
+                <h3>Yonatan Kumsa</h3>
             </div>
 
             <div 

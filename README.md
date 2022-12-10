@@ -1,6 +1,6 @@
 <h1 align="center">🛍️ React E-Commerce Store</h1>
 
-![](/src/Resources/image/preview1.png)
+![](https://i.imgur.com/PRpsbng.png)
 <p align="center">
   Game Store built with React
 </p>
@@ -14,12 +14,11 @@ An e-commerce store, imitating a Game Store, built with React. Includes dedicate
 ## Showcase
 You can see images and a GIF of the project in user interaction below. The user starts on the landing page, navigates through the browse section, selects a game, adds it to their cart and opens the cart. The GIF does not show all features of the shop, it only shows the most elementary user interactions. <br /> <br />
 
-![](/src/Resources/image/preview0.png)
-![](/src/Resources/image/preview1.png)
-![](/src/Resources/image/preview2.png)
-![](/src/Resources/image/preview3.png)
-![](/src/Resources/image/preview4.png)
-![](/src/Resources/image/showcase.gif)
+![](https://i.imgur.com/pV6pKHI.png)
+![](https://i.imgur.com/PRpsbng.png)
+![](https://i.imgur.com/jn5U7GZ.png)
+![](https://i.imgur.com/QRXZHBL.png)
+![](https://i.imgur.com/dx6eIUF.png)
 
 ## Performance
 I let [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=de) run over my application to check for it's **performance, accessibility, use of best practices and SEO optimization**. You can view the results right below this paragraph.
